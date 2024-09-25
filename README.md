@@ -1,2 +1,3 @@
 # DiabetesPrediction
-Sistem teknologi prediksi diabetes adalah alat yang memanfaatkan data dan algoritma untuk mengenali risiko seseorang terkena diabetes, terutama tipe 2. Sistem ini umumnya menggunakan informasi kesehatan, termasuk riwayat medis, pola makan, aktivitas fisik, dan data biometrik.
+Proyek ini adalah sebagai Sistem teknologi prediksi diabetes alat yang memanfaatkan data dan algoritma untuk mengenali risiko seseorang terkena diabetes, terutama tipe 2. Sistem ini umumnya menggunakan informasi kesehatan, termasuk riwayat medis, pola makan, aktivitas fisik, dan data biometrik.
+Dengan menggunakan metode pembelajaran mesin dan analisis statistik, sistem ini mampu memberikan prediksi yang akurat dan membantu tenaga medis dalam merancang strategi pencegahan yang lebih efisien. Tujuannya adalah untuk mendeteksi risiko lebih awal, sehingga intervensi dapat dilakukan sebelum penyakit berkembang.
